@@ -1,0 +1,44 @@
+*{
+    background-image: linear-gradient(rgb(255, 0, 170),rgb(230, 0, 0));
+    overflow: unset;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style:initial,oblique;
+    color: rgb(0, 225, 255);
+}
+
+h1{
+    font-size: 51px;
+    color: blueviolet;
+}
+
+input{
+    font-size: 16px;
+    outline: none;
+    width: 80%;
+    border-radius: 35px;
+    border-width: 3px;
+    border-color: aqua;
+}
+textarea
+{
+    font-size: 16px;
+    outline: none;
+    width: 80%;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: aqua;
+}
+button
+{
+    font-size: 16px;
+    border-radius: 35px;
+    color: #000;
+    font-size: 20px;
+    background: rgb(77, 255, 6);
+}
